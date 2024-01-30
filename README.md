@@ -61,11 +61,11 @@ I am passionate about Web Developer and Data Analyst.
 
 ### Projects
 
-#### Druk Grammar — Android App
+#### [Druk Grammar] — Android App ()
 
 - A virtual learning application is an android application that focuses on teaching basic Dzongkha Grammar to the Bhutanese people especially the students
 
-#### Rain Date— Machine learning
+#### [Rain Date]— Machine learning (https://github.com/Team-RainDate/RainDate-Project)
 
 - This project enhances rainfall prediction using machine learning techniques,benefiting multiple sectors and society. It analyzes recent advancements,provides insights for researchers, and aims to improve decision-making and preparedness through increased prediction accuracy
 
@@ -73,7 +73,7 @@ I am passionate about Web Developer and Data Analyst.
 
 - The project aims to award students who have intention and determination to be developed as all-rounded young adults.while the  existing system lacks transparency and consistent assessment of student participation and contribution.
 
-#### Sign Language Detection — Deep Learning
+#### [Sign Language Detection] — Deep Learning (https://github.com/Team-RainDate/Sign-Language-Classification)
 
 - Hearing or Speech disabled people who know Sign Language require a translator who also knows Sign Language to explain their thoughts to other people in an effective manner. To help overcome these problems, this system helps hearing or speech disabled people to learn as well as translate their sign language.
 
