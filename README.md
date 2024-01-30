@@ -86,26 +86,28 @@ I am passionate about Web Developer and Data Analyst.
 
 #### TRAINING AND CERTIFICATIONS
 
-##### Google UX Design Certificates
+##### [Google UX Design Certificates](https://github.com/dorjiyangzom/Dorji-Yangzom/blob/main/certificates/google.pdf)
 Certified UI/UX Designer from Coursera(planing,research,design and test).
 Six Month course provided by GCIT.
 from Febuary 2023 to June 2023.
 
-##### AWS Cloud foundation
+##### [AWS Cloud foundation](https://github.com/dorjiyangzom/Dorji-Yangzom/blob/main/certificates/16.png)
 Basic AWS cloud founadtion.
 from Febuary 2023 to June 2023.
 
-##### Mentorship Program
+##### [Mentorship Program](https://github.com/dorjiyangzom/Dorji-Yangzom/blob/main/certificates/mentor.png)
 Career Mentoring program , Mentored five students on STEM pathways in October 2021
 
 <hr>
 
 #### AWARDS
 
-Academic Excellence: Issued by GCIT,  July 2023
+#### [Academic Excellence](https://github.com/dorjiyangzom/DorjiYangzom/blob/main/certificates/certificates_10.jpg)
+Issued by GCIT,  July 2023
 Associated with Royal University of Bhutan, Gyalpozhing College. Second Topper , B.Sc Informationa Technology  2023.
 
-Poster Award: Issued by University of Sydney, August 2023
+#### [Poster Award](https://github.com/dorjiyangzom/Dorji-Yangzom/blob/main/certificates/Coding_Fest-2023_Award-PosterA.pdf)
+Issued by University of Sydney, August 2023
 Best Poster Award for Coding fest 2023, University of Sydney, Australia
 
 <hr>
