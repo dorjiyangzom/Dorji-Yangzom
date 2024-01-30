@@ -61,21 +61,25 @@ I am passionate about Web Developer and Data Analyst.
 
 ### Projects
 
-#### [Druk Grammar] — Android App ()
+#### [Druk Grammar](https://github.com/dorjiyangzom/Dorji-Yangzom/blob/main/Druk_Grammer.pdf) — Android App
 
 - A virtual learning application is an android application that focuses on teaching basic Dzongkha Grammar to the Bhutanese people especially the students
 
-#### [Rain Date]— Machine learning (https://github.com/Team-RainDate/RainDate-Project)
+#### [Rain Date](https://github.com/Team-RainDate/Sign-Language-Classification)— Machine learning
 
 - This project enhances rainfall prediction using machine learning techniques,benefiting multiple sectors and society. It analyzes recent advancements,provides insights for researchers, and aims to improve decision-making and preparedness through increased prediction accuracy
 
-#### GCIT CCA Management System — Web App
+#### [GCIT CCA Management System](https://github.com/dorjiyangzom/Dorji-Yangzom/blob/main/CCA%20Management%20System.pdf) — Web App
 
 - The project aims to award students who have intention and determination to be developed as all-rounded young adults.while the  existing system lacks transparency and consistent assessment of student participation and contribution.
 
-#### [Sign Language Detection] — Deep Learning (https://github.com/Team-RainDate/Sign-Language-Classification)
+#### [Sign Language Classification](https://github.com/Team-RainDate/Sign-Language-Classification) — Deep Learning 
 
 - Hearing or Speech disabled people who know Sign Language require a translator who also knows Sign Language to explain their thoughts to other people in an effective manner. To help overcome these problems, this system helps hearing or speech disabled people to learn as well as translate their sign language.
+
+#### [Research on the Effectiveness of Traditional Learning Vs E-Learning](https://github.com/Team-RainDate/Sign-Language-Classification) — Research Paper 
+
+- This research paper is to compare and contrast the two most implemented learning methods which are traditional and e-learning to measure its effectiveness.
 
 
 
@@ -86,7 +90,6 @@ I am passionate about Web Developer and Data Analyst.
 Certified UI/UX Designer from Coursera(planing,research,design and test).
 Six Month course provided by GCIT.
 from Febuary 2023 to June 2023.
-
 
 ##### AWS Cloud foundation
 Basic AWS cloud founadtion.
